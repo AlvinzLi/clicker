@@ -1,0 +1,25 @@
+#something {
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    
+}
+
+body{
+    background-image:url("background.webp")
+}
+
+.red {
+    background-color: rgb(225, 255, 0);
+    font-size: 25px;
+    height: 120 px;
+
+
+}
+button {
+    border-radius: 50px;
+    font-size: 50px;
+}
+#Score {
+    background-color: aquamarine;
+}
